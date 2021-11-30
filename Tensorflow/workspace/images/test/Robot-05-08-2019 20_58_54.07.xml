@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagensTrain</folder>
+	<filename>Robot-05-08-2019 20_58_54.07.jpg</filename>
+	<path>/home/fei/RoboFEI-HT-VisionDebug/AI/Vision/Train/DNN/imagensTrain/Robot-05-08-2019 20_58_54.07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>225</ymin>
+			<xmax>471</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

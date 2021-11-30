@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>WhatsApp Image 2021-11-29 at 15.45.43.jpeg</filename>
+	<path>D:\tensorflow-object-detection\TFODCourse\Tensorflow\dataset\WhatsApp Image 2021-11-29 at 15.45.43.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>231</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>football</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>218</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>WhatsApp Image 2021-11-29 at 15.45.44.jpeg</filename>
+	<path>C:\Users\ASUS\Downloads\WhatsApp Image 2021-11-29 at 15.45.44.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>football</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>43</ymin>
+			<xmax>193</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagens to classify</folder>
+	<filename>Robot-05-08-2019 20_08_11.98.jpg</filename>
+	<path></path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>988</xmin>
+			<ymin>104</ymin>
+			<xmax>1077</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
